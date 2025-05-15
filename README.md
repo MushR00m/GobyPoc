@@ -1,7 +1,8 @@
-## goby poc  最近一次检查时间 2025-05-14 05:26:10
+## goby poc  最近一次检查时间 2025-05-15 05:26:08
 ### 收集记录
 | 文件名称 | 收录时间 |
 | :----| :---- |
+| [ACTI_camera_images_File_read.go](https://github.com/wryfilly/gobypoc) | 2025-05-15 05:25:06 |
 | [ACTI_camera_images_File_read.go](https://github.com/filthyrestri/Goby_POC) | 2025-02-27 05:22:11 |
 | [Samsung_WLAN_AP_WEA453e_RCE.json](https://github.com/cqr-cryeye-forks/goby-pocs) | 2023-06-02 05:10:01 |
 | [DedeCMS_Carbuyaction_FileInclude.json](https://github.com/cqr-cryeye-forks/goby-pocs) | 2023-06-02 05:10:01 |
